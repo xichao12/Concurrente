@@ -1,0 +1,1 @@
+[b'juan: hola', b'pedro: buenas', b'juan: como estas', b'pedro: bien y tu', b'juan: bien bien', b'pedro: bueno dejemoslo aqui', b'juan: vale']
